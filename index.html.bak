@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+    
+        h2{
+            background-color: aquamarine;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+
+    <script : src="main.js"></script>
+        
+  </head>
+  <body>
+    <h1 style= "background-color: pink ;">Hello, html! </h1>
+    <h2> Hello, CSS! </h2>
+    <h3> What's up </h3>
+    <h4 style="background-color: rgb(151, 208, 255);">Coding neu mu eou ryup </h4>
+  </body>
+</html>
